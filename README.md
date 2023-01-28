@@ -4,21 +4,6 @@
 4. Don't forget to import the .sql file into your database.
 5. Add "start..." to your server.cfg file.
 
-#[farms]
-start esx_apfel
-start esx_avocado
-start esx_banane
-start esx_birne
-start esx_brokkoli
-start esx_diamanten
-start esx_gurke
-start esx_kartoffeln
-start esx_kirsche
-start esx_kohle
-start esx_kupfer
-start esx_nüsse
-start esx_orangen
-start esx_trauben
 
 #Information
 [English]
