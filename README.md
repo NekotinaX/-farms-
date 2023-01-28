@@ -6,10 +6,8 @@
 
 
 #Information
-[English]
-These are scripts for picking or collecting different things like fruits, nuts, ores and herbs in German but they are very easy to translate!
-[German]
-Dies sind Skripte zum Pflücken oder Sammeln verschiedener Dinge wie Früchte, Nüsse, Erze und Kräuter auf Deutsch, aber sie sind sehr einfach zu übersetzen!
+1. [English] These are scripts for picking or collecting different things like fruits, nuts, ores and herbs in German but they are very easy to translate!
+2. [German] Dies sind Skripte zum Pflücken oder Sammeln verschiedener Dinge wie Früchte, Nüsse, Erze und Kräuter auf Deutsch, aber sie sind sehr einfach zu übersetzen!
 
 #Legal & License
 By changing the script, the license goes away and I have the right to sue you.
